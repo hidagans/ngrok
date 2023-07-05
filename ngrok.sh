@@ -19,7 +19,7 @@ cd ~/ngrok
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
 
 # Unzip ngrok
-unzip https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
+unzip ngrok-stable-linux-amd64.zip
 
 # Authenticate with ngrok account
 echo 'Input your ngrok account token'
